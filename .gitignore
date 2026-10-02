@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+
+# ML / Hugging Face caches
+.cache/
